@@ -1,0 +1,60 @@
+*{
+    color: #fff;
+    background-color: #F20519;
+}
+
+#top{
+    margin-top: 25px;
+}
+
+
+#logo{
+    height: 60px;
+    float: left;
+    margin-left: 25px;
+}
+
+.menu{
+    list-style: none;
+    display: inline-block;
+    margin-left: 68%;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.menu li{
+    float: left;
+    margin-right: 30px;
+}
+
+.menu li a {
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    color: blue;
+}
+
+#txt{
+    margin: 160px  0 0 50px;
+    font-size: 36px;
+}
+
+#txt p{
+    font-size: 20px;
+    width: 30%;
+    margin-top: 4%;
+}
+
+
+
+
+
+
+
+
+
+
+#tela-2{
+    margin-top: 100%;
+}
